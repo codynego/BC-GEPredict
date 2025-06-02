@@ -89,7 +89,7 @@
 
 ## 📈 Results
 
-*You can fill this section later with classification metrics, confusion matrix, and sample predictions.*
+*for classification metrics, confusion matrix, and sample predictions.*
 
 ---
 
