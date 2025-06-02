@@ -111,6 +111,3 @@ Contributions welcome! Please fork the repo and submit a pull request.
 
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
----
-
-Would you like me to generate a `requirements.txt` or help you write any of the notebook files?
