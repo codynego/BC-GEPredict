@@ -53,7 +53,7 @@
 1. **Clone the Repo**
 
    ```bash
-   git clone https://github.com/yourusername/BC-GEPredict.git
+   git clone https://github.com/codynego/BC-GEPredict.git
    cd BC-GEPredict
    ```
 
